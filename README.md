@@ -4,5 +4,10 @@
 
 "Metadata Generator" can be particularly helpful in environments where file organization and retrieval are crucial, such as digital libraries, content management systems, or archives. By generating comprehensive metadata, it enhances the findability and accessibility of files, making it easier for users to locate and utilize their digital assets efficiently. This tool also aids in maintaining a structured dataset, which can improve workflow and data management practices within organizations.
 
+#
+### Example Usage
+
+[Metadata_Report_for_Metadata_Generator.txt](https://github.com/sourceduty/Metadata_Generator/files/15260596/Metadata_Report_for_Metadata_Generator.txt)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
