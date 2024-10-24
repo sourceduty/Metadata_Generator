@@ -22,6 +22,8 @@
 [Format Analyzer](https://github.com/sourceduty/Format_Analyzer)
 <br>
 [Format Origin](https://github.com/sourceduty/Format_Origin)
+<br>
+[Metadata Automation](https://github.com/sourceduty/Metadata_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
