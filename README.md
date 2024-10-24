@@ -1,4 +1,4 @@
-![Metadata Generator](https://github.com/sourceduty/Metadata_Generator/assets/123030236/3c4011e8-7afa-414e-96d9-d3f88c6fb45d)
+![Metadata](https://github.com/user-attachments/assets/faddb29b-6e9e-45e3-abf2-40183e1fa763)
 
 > Generate and analyze metadata using uploaded files. Create knowledge tags and meta-information reports.
 #
