@@ -15,7 +15,7 @@
 #
 ### Related Links
 
-[ChatGPt](https://github.com/sourceduty/ChatGPT)
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Format Developer](https://github.com/sourceduty/Format_Developer)
 <br>
